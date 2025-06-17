@@ -11,7 +11,7 @@ int red[3] = {150, 0, 0};
 int yellow[3] = {160, 50, 0};
 int orange[3] = {150, 20, 0};
 int green[3] = {0, 200, 0};
-int blue[3] = {0, 0, 128};
+int blue[3] = {0, 0, 150};
 int white[3] = {255, 255, 255};
 int off_led[3] = {0, 0, 0};
 
